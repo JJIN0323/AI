@@ -1,4 +1,4 @@
-@Illustration LOGO 
+# @Illustration LOGO 
 ##### DESIGN BY HYEJIN
 
 
